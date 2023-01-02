@@ -15,7 +15,7 @@
 
 - 💼 any freelance work? do reach, :) <a href="https://www.linkedin.com/in/sumitjungi/">
   <img alt="Sumit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> <a href="mailto:sumit.jungi555@gmail.com"> <img alt="Sumit's LinkedIN" width="27px" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/gmail/gmail.png" />
+</a> <a href="mailto:sumit.jungi555@gmail.com"> <img alt="Sumit's Gmail" width="25px" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/gmail/gmail.png" />
 </a>
 
 - 💬 ask me about anything, i am happy to help;
