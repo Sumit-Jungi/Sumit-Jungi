@@ -5,8 +5,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Sumit-Jungi.Sumit-Jungi)
 --->
 
-<br />
-
 - 👋 Hi, I’m Sumit Jungi
 
 - I'm passionate self-taught 🖥 <strong>𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</strong> and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
