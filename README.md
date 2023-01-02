@@ -11,9 +11,10 @@
 
   <img align="right" alt="GIF" src="https://github.com/Sumit-Jungi/Sumit-Jungi/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 💼 any freelance work? do reach :) <a href="https://www.linkedin.com/in/sumitjungi/">
+- 💼 any freelance work? do reach :) 
+<a href="https://www.linkedin.com/in/sumitjungi/">
   <img alt="Sumit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a><a href="mailto:sumit.jungi555@gmail.com"> <img alt="Sumit's Gmail" width="25px" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/gmail/gmail.png" />
+</a> <a href="mailto:sumit.jungi555@gmail.com"> <img alt="Sumit's Gmail" width="25px" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/gmail/gmail.png" />
 </a>
 
 - 💬 ask me about anything, i am happy to help;
@@ -38,6 +39,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/database/database.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/angular-cli/angular-cli.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/powershell/powershell.png"></code>
+<code><img height="30" src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/jira.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/nginx/nginx.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/linux/linux.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/bash/bash.png"></code>
