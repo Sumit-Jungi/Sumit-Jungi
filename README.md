@@ -12,11 +12,7 @@
   <img align="right" alt="GIF" src="https://github.com/Sumit-Jungi/Sumit-Jungi/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 💼 any freelance work? do reach :) <br />
-
-&nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/sumitjungi/">
-  <img alt="Sumit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> <a href="mailto:sumit.jungi555@gmail.com"> <img alt="Sumit's Gmail" width="25px" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/gmail/gmail.png" />
-</a>
+[<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px" align="center" alt="Follow Sumit J. on LinkedIn" title="Follow Sumit J. on LinkedIn"/>](https://www.linkedin.com/in/sumitjungi/) &nbsp; [<img src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/gmail/gmail.png" width="25px" align="center" alt="Send mail to Sumit" title="Send mail to Sumit"/>](mailto:sumit.jungi555@gmail.com) 
 
 - 💬 ask me about anything, i am happy to help;
 
