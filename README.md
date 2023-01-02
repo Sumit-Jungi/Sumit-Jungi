@@ -1,5 +1,6 @@
 <h1 align="center">
   Hello there!
+  <img src="assets/Hi.gif" width="40px" />
 </h1>
 
 <!----
@@ -11,14 +12,13 @@
 <br /> 
 <br /> 
 
-- 👋 Hi, I’m Sumit Jungi
+- Hi, I’m Sumit Jungi
 
 - I'm passionate self-taught 🖥 <strong>𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</strong> and a freelance software engineer. 
 - my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-<img align="right" alt="GIF" src="https://github.com/Sumit-Jungi/Sumit-Jungi/blob/master/code.gif?raw=true" width="500" height="320" />
-
-- 💼 any freelance work? do reach :) <br />
-[<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px" align="center" alt="Follow Sumit J. on LinkedIn" title="Follow Sumit J. on LinkedIn"/>](https://www.linkedin.com/in/sumitjungi/) &nbsp; [<img src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/gmail/gmail.png" width="25px" align="center" alt="Send mail to Sumit" title="Send mail to Sumit"/>](mailto:sumit.jungi555@gmail.com) 
+<!-- <img align="right" alt="GIF" src="assets/code.gif" width="500" height="320" />
+ -->
+- 💼 any freelance work? do reach :) [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px" align="center" alt="Follow Sumit J. on LinkedIn" title="Follow Sumit J. on LinkedIn"/>](https://www.linkedin.com/in/sumitjungi/) &nbsp; [<img src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/gmail/gmail.png" width="25px" align="center" alt="Send mail to Sumit" title="Send mail to Sumit"/>](mailto:sumit.jungi555@gmail.com) 
 
 - 💬 ask me about anything, i am happy to help;
 
