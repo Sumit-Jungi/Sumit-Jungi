@@ -14,9 +14,9 @@
 
 - Hi, I’m [Sumit-Jungi](mailto:sumit.jungi555@gmail.com)
 
-- I'm passionate self-taught 🖥 <strong>𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</strong> and a freelance software engineer. 
+- I'm passionate self-taught 🖥 <strong>Full-stack developer</strong> and a freelance software engineer. 
 
-- My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+- My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in code quality of the things I build.
 <!-- <img align="right" alt="GIF" src="assets/code.gif" width="500" height="320" />
  -->
 
