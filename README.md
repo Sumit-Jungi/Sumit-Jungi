@@ -22,6 +22,8 @@
 
 - 💼 Any freelance work? do reach :) &nbsp; [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px" align="center" alt="Follow Sumit J. on LinkedIn" title="Follow Sumit J. on LinkedIn"/>](https://www.linkedin.com/in/sumitjungi/) &nbsp; [<img src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/gmail/gmail.png" width="25px" align="center" alt="Send mail to Sumit" title="Send mail to Sumit"/>](mailto:sumit.jungi555@gmail.com) 
 
+- 😄 Pronouns:- I'm male, I'm man, I'm he, I don't get into that mentally ill stuff.
+
 - 💬 Ask Me About Anything <strong> [here](https://github.com/Sumit-Jungi/Sumit-Jungi/issues/1) </strong>, I am happy to help;
 
 <br />
