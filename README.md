@@ -28,7 +28,7 @@
 
 <br />
 <p align="center">
-  <img src="https://gpvc.arturio.dev/Sumit-Jungi" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
+  <img src="https://komarev.com/ghpvc/?username=sumit-jungi&style=flat&color=blue" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
 <p>
 
 ### Languages and tools:
