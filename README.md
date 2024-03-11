@@ -7,7 +7,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Sumit-Jungi.Sumit-Jungi)
 --->
 
-<img align="right" height="250" width="400" alt="GIF" src="assets/code.gif"/>
+<img align="right" height="250" width="400" alt="GIF" src="assets/code1.gif"/>
 
 <br /> 
 <br /> 
@@ -32,7 +32,7 @@
 <p>
 
 ### Languages and tools:
-<img align="left" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<img align="left" height="200px" width="200px" alt="𝙶𝙸𝙵" src="assets/github.gif"/>
 <br/>
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/java/java.png"></code>
