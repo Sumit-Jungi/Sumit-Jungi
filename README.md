@@ -20,7 +20,7 @@
 <!-- <img align="right" alt="GIF" src="assets/code.gif" width="500" height="320" />
  -->
 
-- 💼 Any freelance work? do reach :) &nbsp; [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px" align="center" alt="Follow Sumit J. on LinkedIn" title="Follow Sumit J. on LinkedIn"/>](https://www.linkedin.com/in/sumitjungi/) &nbsp; [<img src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/gmail/gmail.png" width="25px" align="center" alt="Send mail to Sumit" title="Send mail to Sumit"/>](mailto:sumit.jungi555@gmail.com) 
+- 💼 Any freelance work? do reach :) &nbsp; [<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" width="25px" align="center" alt="Follow Sumit J. on LinkedIn" title="Follow Sumit J. on LinkedIn"/>](https://www.linkedin.com/in/sumitjungi/) &nbsp; [<img src="https://raw.githubusercontent.com/github/explore/main/topics/gmail/gmail.png" width="25px" align="center" alt="Send mail to Sumit" title="Send mail to Sumit"/>](mailto:sumit.jungi555@gmail.com) 
 
 - 😄 Pronouns:- I'm a male, I'm a man, I'm a he, I don't get into that mentally ill stuff.
 
@@ -36,28 +36,30 @@
 <img align="left" height="200px" width="200px" alt="𝙶𝙸𝙵" src="assets/github.gif"/>
 <br/>
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/java/java.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/angular/angular.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/ionic/ionic.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/cordova/cordova.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/typescript/typescript.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/firebase/firebase.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/google-apps-script/google-apps-script.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/javascript/javascript.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/nodejs/nodejs.png"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/git/git.png"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/mysql/mysql.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/sqlite/sqlite.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/database/database.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/angular-cli/angular-cli.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/powershell/powershell.png"></code>
+
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/ionic/ionic.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cordova/cordova.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/google-apps-script/google-apps-script.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/raspberry-pi/raspberry-pi.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/database/database.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/angular-cli/angular-cli.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/powershell/powershell.png"></code>
 <code><img height="30" width="30" src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/jira.svg"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/nginx/nginx.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/linux/linux.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/bash/bash.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/26c6664ab3c97ff5cef04c3a3f2498bf518186d6/topics/android-studio/android-studio.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png"></code>
 
 <!---- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
