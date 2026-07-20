@@ -12,7 +12,7 @@
 <br /> 
 <br /> 
 
-- Hi, I’m [Sumit-Jungi](mailto:sumit.jungi555@gmail.com)
+- Hi, I’m [Sumit-Jungi](mailto:sumit.jungi@gmail.com)
 
 - I'm passionate self-taught 🖥 <strong>Full-stack developer</strong> and a freelance software engineer. 
 
@@ -20,7 +20,7 @@
 <!-- <img align="right" alt="GIF" src="assets/code.gif" width="500" height="320" />
  -->
 
-- 💼 Any freelance work? do reach :) &nbsp; [<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" width="25px" align="center" alt="Follow Sumit J. on LinkedIn" title="Follow Sumit J. on LinkedIn"/>](https://www.linkedin.com/in/sumitjungi/) &nbsp; [<img src="https://raw.githubusercontent.com/github/explore/main/topics/gmail/gmail.png" width="25px" align="center" alt="Send mail to Sumit" title="Send mail to Sumit"/>](mailto:sumit.jungi555@gmail.com) 
+- 💼 Any freelance work? do reach :) &nbsp; [<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" width="25px" align="center" alt="Follow Sumit J. on LinkedIn" title="Follow Sumit J. on LinkedIn"/>](https://www.linkedin.com/in/sumitjungi/) &nbsp; [<img src="https://raw.githubusercontent.com/github/explore/main/topics/gmail/gmail.png" width="25px" align="center" alt="Send mail to Sumit" title="Send mail to Sumit"/>](mailto:sumit.jungi@gmail.com) 
 
 - 😄 Pronouns:- I'm a male, I'm a man, I'm a he, I don't get into that mentally ill stuff.
 
