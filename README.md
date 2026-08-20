@@ -30,9 +30,9 @@ I am a passionate, self-taught software engineer specializing in **production-gr
 
 - **High-Performance Full-Stack Apps:** Delivering seamless web and mobile experiences using Node.js, React, Vite, Angular, Bun, and Ionic/Capacitor.
 - **GenAI & RAG Platforms:** Integrating LLMs, Azure OpenAI, and vector databases into custom SaaS products (like automated bidding/proposal platforms).
-- **IoT & Hardware Integration:** Engineering connected device solutions and edge computing applications using Raspberry Pi, seamlessly bridging physical hardware with scalable cloud backends.
-- **Scalable Architecture:** Moving applications from local environments to production-ready Kubernetes deployments and multi-node clusters.
 - **Advanced UIs:** Building complex, high-performance frontends, virtualized masonry grids (using TanStack Virtual), and dynamic theming.
+- **Scalable Architecture:** Moving applications from local environments to production-ready Kubernetes deployments and multi-node clusters.
+- **IoT & Hardware Integration:** Engineering connected device solutions and edge computing applications using Raspberry Pi, seamlessly bridging physical hardware with scalable cloud backends.
 
 ---
 
